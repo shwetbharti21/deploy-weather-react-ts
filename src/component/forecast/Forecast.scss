@@ -1,0 +1,19 @@
+$fontsize:20px;
+
+.day {
+  font-size: $fontsize;
+}
+
+.forecast-icon {
+  position: relative;
+  top: -20px;
+}
+
+.forecast-temperature {
+  font-weight: 300;
+  font-size: $fontsize;
+  letter-spacing: -2px;
+  margin: 10px 0;
+  position: relative;
+  top: -50px
+}
